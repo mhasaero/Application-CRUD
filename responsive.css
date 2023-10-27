@@ -1,0 +1,42 @@
+@media screen and (max-width: 800px) {
+  .content {
+    flex-direction: column;
+    height: 95vh;
+    overflow-y: scroll;
+  }
+  .form {
+    width: 90%;
+    height: 50%;
+    margin: auto;
+  }
+  .terminal {
+    height: 80%;
+  }
+  .terminal label {
+    font-size: 100%;
+  }
+  .terminal input {
+    height: 2vh;
+  }
+  .terminal button {
+    height: 3vh;
+  }
+  header {
+    width: 90%;
+    margin: auto;
+  }
+  .data {
+    width: 90%;
+    height: 50%;
+    margin: auto;
+  }
+  .container {
+    height: 80%;
+  }
+  .field {
+    font-size: 80%;
+  }
+  .card {
+    height: 30%;
+  }
+}
